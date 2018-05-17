@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="908947e4-72b5-4a70-be9a-ec5d703e1fc1" solutionId="908947e4-72b5-4a70-be9a-ec5d703e1fc1" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="DBS.BoasVindas">
+    <features>
+        <featureReference itemId="7a734270-1c5d-4c14-a6ea-b9c462030910" />
+    </features>
+</package>

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBS.BoasVindas", "DBS.BoasVindas\DBS.BoasVindas.csproj", "{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2252DAF6-F26B-4FE0-8DDD-6AF17CB606DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DD81AC-9FD6-40D8-9F2A-440927F3164D}
+	EndGlobalSection
+EndGlobal

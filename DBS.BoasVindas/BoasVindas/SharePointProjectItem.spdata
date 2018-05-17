@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="BoasVindasUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="BoasVindas\" Type="ElementManifest" />
+    <ProjectItemFile Source="BoasVindas.webpart" Target="BoasVindas\" Type="ElementFile" />
+    <ProjectItemFile Source="BoasVindasUserControl.ascx" Target="CONTROLTEMPLATES\DBS.BoasVindas\BoasVindas\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="DBS.BoasVindas.VisualWebPart1" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
